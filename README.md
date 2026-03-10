@@ -1,16 +1,36 @@
-## Hi there 👋
+# Piyush More
 
-<!--
-**vanisherx31/vanisherx31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aerospace Engineering Graduate Student – Purdue University  
+Focus: Controls, Estimation, Autonomous Systems
 
-Here are some ideas to get you started:
+--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Guidance Navigation and Control (GNC)
+- Vehicle Dynamics
+- Autonomous Systems
+- State Estimation
+
+--
+
+## Featured Projects
+
+### Quarter-Car Suspension Simulation
+Vehicle suspension dynamics simulation using a quarter-car model with linear and nonlinear damping analysis implemented in MATLAB/Simulink.
+
+### Drone Position Estimation
+Drone position estimation using Batch Least Squares and Recursive Least Squares (RLS).
+
+### Robotic Rendezvous Guidance
+Guidance trajectory algorithm for robotic interception.
+
+--
+
+## Tools
+
+- MATLAB
+- Simulink
+- Control Systems
+- State Estimation
+- Autonomous Systems
