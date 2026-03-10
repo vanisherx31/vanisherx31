@@ -3,7 +3,6 @@
 Aerospace Engineering Graduate Student – Purdue University  
 Focus: Controls, Estimation, Autonomous Systems
 
---
 
 ## Research Interests
 
@@ -24,7 +23,6 @@ Drone position estimation using Batch Least Squares and Recursive Least Squares 
 ### Robotic Rendezvous Guidance
 Guidance trajectory algorithm for robotic interception.
 
---
 
 ## Tools
 
