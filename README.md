@@ -12,7 +12,6 @@ Focus: Controls, Estimation, Autonomous Systems
 - Autonomous Systems
 - State Estimation
 
---
 
 ## Featured Projects
 
