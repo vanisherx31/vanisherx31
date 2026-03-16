@@ -1,21 +1,24 @@
 # Piyush More
 
 Aerospace Engineering Graduate Student – Purdue University  
-Focus: Controls, Estimation, Autonomous Systems
+Focus: Flight Dynamics, Control Systems, and State Estimation
 
 
 ## Research Interests
 
+- Flight Dynamics and Stability 
 - Guidance Navigation and Control (GNC)
+- Dynamic System Modeling and Simulation
+- State Estimation and Sensor Fusion
 - Vehicle Dynamics
-- Autonomous Systems
-- State Estimation
 
 
 ## Featured Projects
 
 ### Quarter-Car Suspension Simulation
-Vehicle suspension dynamics simulation using a quarter-car model with linear and nonlinear damping analysis implemented in MATLAB/Simulink.
+Dynamic vehicle suspension modeling using a quarter-car model. 
+Implemented linear and nonlinear damping analysis in MATLAB and analyzed 
+frequency response and time-domain ride comfort performance.
 
 ### Drone Position Estimation
 Drone position estimation using Batch Least Squares and Recursive Least Squares (RLS).
