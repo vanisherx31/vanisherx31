@@ -3,7 +3,7 @@
 Aerospace Engineering Graduate Student – Purdue University  
 Focus: Flight Dynamics, Control Systems, and State Estimation
 
-About
+## About
 
 I am a graduate student in Aerospace Engineering at Purdue University 
 focused on flight dynamics modeling, control system design, and state 
@@ -49,3 +49,8 @@ Guidance trajectory algorithm for robotic interception.
 - State-Space Modeling
 - Optimal Control (LQR) 
 - State Estimation Algorithms
+
+## Links
+
+GitHub: https://github.com/vanisherx31  
+LinkedIn: https://www.linkedin.com/in/piyush-more-b1a54213a/
