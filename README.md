@@ -38,7 +38,7 @@ Quadratic Regulation (LQR) with integral tracking and a Luenberger observer
 for state estimation. Implemented and validated in MATLAB/Simulink.
 
 ### Robotic Rendezvous Guidance
-Guidance trajectory algorithm for robotic interception.
+Developed a rendezvous-guidance (RG) based control framework for dynamic target interception with velocity constraints. Integrated LOS guidance with feasible velocity region (FVR) selection to satisfy actuator limits and ensure convergence. Simulated and validated in MATLAB.
 
 
 ## Tools
@@ -49,6 +49,7 @@ Guidance trajectory algorithm for robotic interception.
 - State-Space Modeling
 - Optimal Control (LQR) 
 - State Estimation Algorithms
+- Trajectory Planning & Guidance Algorithms
 
 ## Links
 
