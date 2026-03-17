@@ -38,6 +38,11 @@ Quadratic Regulation (LQR) with integral tracking and a Luenberger observer
 for state estimation. Implemented and validated in MATLAB/Simulink.
 
 ### Robotic Rendezvous Guidance
+
+![RG Interception Simulation](your_gif_link_here)
+
+*Figure: Velocity-constrained interception of a dynamically moving target using LOS guidance.*
+
 Developed a rendezvous-guidance (RG) based control framework for dynamic target interception with velocity constraints. Integrated LOS guidance with feasible velocity region (FVR) selection to satisfy actuator limits and ensure convergence. Simulated and validated in MATLAB.
 
 
