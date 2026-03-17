@@ -39,7 +39,7 @@ for state estimation. Implemented and validated in MATLAB/Simulink.
 
 ### Robotic Rendezvous Guidance
 
-![RG Interception Simulation](your_gif_link_here)
+![RG Interception Simulation](https://raw.githubusercontent.com/vanisherx31/rendezvous-guidance-interception/main/results/interception_simulation_FVR.gif)
 
 *Figure: Velocity-constrained interception of a dynamically moving target using LOS guidance.*
 
